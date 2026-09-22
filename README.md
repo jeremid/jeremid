@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi, I'm Jérémi 👋
+
+I'm a Java developer focused on backend development with **Spring Boot**.
+
+I build business applications and REST APIs using Java, Spring Boot, Spring Data JPA, Spring Security and relational databases. I also have professional experience with Angular for frontend development.
+
+Currently deepening my knowledge of Spring internals, application architecture, security and testing.
+
+**Main stack:** Java • Spring Boot • Spring Security • Spring Data JPA • Spring Batch • PostgreSQL • Angular • Docker
+
 
 <!--
 **jeremid/jeremid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
