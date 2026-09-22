@@ -1,4 +1,4 @@
-### Hi, I'm Jérémi 👋
+### Hi, I'm [Jérémi](https://www.linkedin.com/in/jeremi-dupont/) 👋
 
 I'm a Java developer focused on backend development with **Spring Boot**.
 
